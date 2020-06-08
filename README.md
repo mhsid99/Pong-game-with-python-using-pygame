@@ -1,2 +1,2 @@
 # Pong-game-with-python-using-pygame
-Classic arcade game from 1970s recreated with python using pygame. 
+This is a very basic version of the game and still needs a lot of work😅
